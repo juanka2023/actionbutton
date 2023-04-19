@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/iten2buscar"
+        android:icon="@drawable/buscar"
+        android:title="@string/Buscar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item1compartir"
+        android:icon="@drawable/compartir"
+        android:title="@string/Compartir"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/iten1"
+        android:title="@string/Opcion1" />
+    <item
+        android:id="@+id/iten2"
+        android:title="@string/Opcion2" />
+</menu>
